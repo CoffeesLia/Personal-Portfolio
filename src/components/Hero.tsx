@@ -1,4 +1,5 @@
 import type { FC } from "react";
+import * as React from "react";
 
 const Hero: FC = () => {
     return (

@@ -1,4 +1,5 @@
 import type { FC } from "react";
+import * as React from "react";
 
 // Definindo a interface para um item de Projeto
 interface IProject {

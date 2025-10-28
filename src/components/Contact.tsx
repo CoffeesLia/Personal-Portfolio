@@ -1,4 +1,5 @@
-import type { FC } from "react";
+import * as React from "react";
+import { FC } from "react";
 
 const Contact: FC = () => {
     return (
