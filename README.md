@@ -27,7 +27,7 @@ src/
 Copie os arquivos para dentro da pasta `src/` e rode:
 ```bash
 npm install
-npm run dev
+npm run start
 ```
 
 
