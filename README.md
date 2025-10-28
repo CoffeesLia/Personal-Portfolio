@@ -8,25 +8,21 @@ Este repositório contém o código-fonte do meu **portfólio pessoal** em React
 ```
 src/
 ├── components/
-│ ├── Header.jsx
-│ ├── Hero.jsx
-│ ├── About.jsx
-│ ├── Skills.jsx
-│ ├── Projects.jsx
-│ ├── Experience.jsx
-│ └── Contact.jsx
-├── App.jsx
+│ ├── Header.tsx
+│ ├── Hero.tsx
+│ ├── About.tsx
+│ ├── Skills.tsx
+│ ├── Projects.tsx
+│ ├── Experience.tsx
+│ └── Contact.tsx
+├── App.tsx
+├── index.html
 ├── index.css
-└── main.jsx
+└── main.tsx
 ```
 
 
 ## 🚀 Rodando localmente
-```bash
-npm create vite@latest portfolio-ceci -- --template react
-cd portfolio-ceci
-```
-
 
 Copie os arquivos para dentro da pasta `src/` e rode:
 ```bash
