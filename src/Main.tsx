@@ -5,7 +5,7 @@ import './index.css'
 
 // Adicionada asserção 'as HTMLElement' para garantir que o elemento não é nulo
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-    <React.StrictMode>
-        <App />
-    </React.StrictMode>,
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
 )
